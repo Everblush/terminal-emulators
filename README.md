@@ -14,6 +14,7 @@
 - [Alacritty](https://github.com/Everblush/terminal-emulators/tree/main/src/alacritty.yml) - wget src/alacritty.yml to your `~/.config/alacritty/alacritty.yml`. 
 - [kitty](https://github.com/Everblush/terminal-emulators/tree/main/src/kitty.conf) - wget src/kitty.conf to your `~/.config/kitty/kitty.conf`.
 - [st](https://github.com/Everblush/terminal-emulators/tree/main/st) - `sudo make install` into the cloned `src/st` directory.
+- [xfce4-terminal](https://github.com/Everblush/terminal-emulators/tree/main/src/xfce4-terminalrc) - wget src/xfce4-terminal/terminalrc to your `~/.config/xfce4/terminal/terminalrc` 
 
 ## Credits 💝
 - [samuel](https://github.com/samuelnihbos)
