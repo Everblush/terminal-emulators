@@ -1,6 +1,7 @@
-## Everblush Terminal Config's 
+<h2 align="center">Everblush Terminal Config's</h2>
+
 <p>
-<h4> <i>Everblush for all different terminal emulators<i> </h4>
+<h4 align="center"> <i>Everblush for all different terminal emulators</i> </h4>
 </p> 
 <p align="center"> 
 <img src="https://img.shields.io/github/stars/Everblush/terminal-emulators?color=e5c76b&labelColor=22292b&style=for-the-badge"> <img src="https://img.shields.io/github/issues/Everblush/terminal-emulators?color=67b0e8&labelColor=22292b&style=for-the-badge">
