@@ -1,0 +1,7 @@
+[/]
+background-color='rgb(24,31,33)'
+bold-is-bright=true
+foreground-color='rgb(218,218,218)'
+palette=['rgb(34,41,43)', 'rgb(224,110,110)', 'rgb(140,207,126)', 'rgb(229,199,107)', 'rgb(103,176,232)', 'rgb(196,127,213)', 'rgb(109,164,205)', 'rgb(179,185,184)', 'rgb(59,66,68)', 'rgb(239,125,125)', 'rgb(155,222,173)', 'rgb(244,214,122)', 'rgb(108,181,237)', 'rgb(206,137,223)', 'rgb(103,203,231)', 'rgb(189,195,194)']
+use-theme-colors=false
+visible-name='Everblush'
