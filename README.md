@@ -16,6 +16,7 @@
 - [st](https://github.com/Everblush/terminal-emulators/tree/main/st) - `sudo make install` into the cloned `src/st` directory.
 - [xfce4-terminal](https://github.com/Everblush/terminal-emulators/tree/main/src/xfce4-terminal/terminalrc) - wget src/xfce4-terminal/terminalrc to your `~/.config/xfce4/terminal/terminalrc` 
 - [gnome-terminal](https://github.com/Everblush/terminal-emulators/tree/main/src/gnome-terminal/Everblush.dconf) - visit src/gnome-terminal to get detailed instructions!
+- [tym terminal emulator](https://github.com/Everblush/terminal-emulators/tree/main/src/tym/theme.lua) - wget src/tym/theme.lua to your ~/.config/tym/theme.lua
 
 ## Credits 💝
 - [samuel](https://github.com/samuelnihbos)
