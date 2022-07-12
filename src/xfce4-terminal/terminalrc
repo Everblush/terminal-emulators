@@ -35,11 +35,11 @@ MiscSearchDialogOpacity=100
 MiscShowUnsafePasteDialog=TRUE
 DropdownWidth=60
 DropdownHeight=60
-ColorPalette=rgb(27,34,36);rgb(246,91,91);rgb(107,176,93);rgb(229,158,103);rgb(83,167,191);rgb(177,133,219);rgb(81,163,159);rgb(196,196,196);rgb(35,42,44);rgb(194,111,111);rgb(141,199,118);rgb(231,172,126);rgb(108,186,209);rgb(187,143,229);rgb(109,176,173);rgb(206,206,206)
+ColorPalette=rgb(35,42,45);rgb(229,116,116);rgb(140,207,126);rgb(229,199,107);rgb(103,176,232);rgb(196,127,213);rgb(108,191,191);rgb(179,185,184);rgb(45,52,55);rgb(239,126,126);rgb(150,217,136);rgb(244,214,122);rgb(113,186,242);rgb(206,137,223);rgb(103,203,231);rgb(189,195,194)
 DropdownAlwaysShowTabs=FALSE
-ScrollingOnOutput=FALSE
-ColorForeground=#c5c5c8c8c9c9
-ColorBackground=#13131a191c1c
+ColorForeground=#dadadadadada
+ColorBackground=#14141b1a1e1e
 ColorCursor=#dcdcdc
-TabActivityColor=#f6f65b5a5b5a
+TabActivityColor=#bfff3fff3fff
+MiscRightClickAction=TERMINAL_RIGHT_CLICK_ACTION_CONTEXT_MENU
 

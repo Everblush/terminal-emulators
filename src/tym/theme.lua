@@ -1,4 +1,4 @@
-local bg = '#181f21'
+local bg = '#141b1e'
 local fg = '#dadada'
 return {
   color_background = bg,
@@ -8,19 +8,19 @@ return {
   color_cursor = '#3b4244',
   color_highlight = fg,
   color_highlight_foreground = bg,
-  color_0  = '#22292b',
-  color_1  = '#e06e6e',
+  color_0  = '#232a2d',
+  color_1  = '#e57474',
   color_2  = '#8ccf7e',
   color_3  = '#e5c76b',
   color_4  = '#67b0e8',
   color_5  = '#c47fd5',
-  color_6  = '#6da4cd',
+  color_6  = '#6cbfbf',
   color_7  = '#b3b9b8',
-  color_8  = '#3b4244',
-  color_9  = '#ef7d7d',
-  color_10 = '#9bdead',
+  color_8  = '#2d3437',
+  color_9  = '#ef7e7e',
+  color_10 = '#96d988',
   color_11 = '#f4d67a',
-  color_12 = '#6cb5ed',
+  color_12 = '#71baf2',
   color_13 = '#ce89df',
   color_14 = '#67cbe7',
   color_15 = '#bdc3c2',
