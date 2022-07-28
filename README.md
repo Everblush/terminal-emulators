@@ -18,6 +18,7 @@
 - [gnome-terminal](https://github.com/Everblush/terminal-emulators/tree/main/src/gnome-terminal/Everblush.dconf) - visit src/gnome-terminal to get detailed instructions!
 - [tym terminal emulator](https://github.com/Everblush/terminal-emulators/tree/main/src/tym/theme.lua) - wget src/tym/theme.lua to your `~/.config/tym/theme.lua`
 - [foot](https://github.com/Everblush/terminal-emulators/tree/main/src/foot.ini) wget src/foot.ini to your `~/.config/foot/foot.ini`
+- [wezterm](https://github.com/Everblush/terminal-emulators/tree/main/src/wezterm/everblush.lua) wget src/wezterm/everblush.lua to your `~/.config/wezterm/colors/everblush.lua`
 
 ## Credits 💝
 - [samuel](https://github.com/samuelnihbos)
