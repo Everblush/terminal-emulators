@@ -1,24 +1,26 @@
-# How To Install 
+<h2 align="center">Everblush for <a href="https://wiki.gnome.org/Apps/Terminal">Gnome Terminal</a></h2>
 
-## Prerequisites
-- dconf utilities (in some distro it can be called dconf-cli or dconf-editor) to apply this theme
-- wget or curl (optional. I'll be using wget for this)
+<p align="center">
+    <a href="https://github.com/Everblush/terminal-emulators/stars"><img src="https://img.shields.io/github/stars/Everblush/terminal-emulators?color=e57474&labelColor=1e2528&style=for-the-badge"></a>
+    <a href="https://github.com/Everblush/terminal-emulators/issues"><img src="https://img.shields.io/github/issues/Everblush/terminal-emulators?color=67b0e8&labelColor=1e2528&style=for-the-badge"></a>
+    <a href="https://github.com/Everblush/terminal-emulators/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8ccf7e&labelColor=1e2528&style=for-the-badge"></a>
+    <a href="https://github.com/Everblush/terminal-emulators/network/members"><img src="https://img.shields.io/github/forks/Everblush/terminal-emulators?color=e5c76b&labelColor=1e2528&style=for-the-badge"></a>
+</p>
+
+## Preview
+
+![Everblush GNOME Terminal]()
 
 ## Installation
 
-- get the Everblush.dconf file 
+**Manual installation**
+
+Download the `Everblush.dconf` file and import the settings into GNOME Terminal with the following command -
+
 ```
-$ wget https://raw.githubusercontent.com/Everblush/terminal-emulators/main/src/gnome-terminal/Everblush.dconf
+dconf load /org/gnome/terminal/legacy/profiles:/ < Everblush.dconf
 ```
 
-- you also need to know your gnome-terminal profile UID, to find out so, run this command
-```
-$ dconf list /org/gnome/terminal/legacy/profiles:/
-```
-the profile UID will start with ```:``` sign. Make sure you select the correct profile. If you haven't touch anything about profile on your gnome terminal, usually there's will be just one profile
+**Automatic installation**
 
-- install the theme
-```
-dconf load /org/gnome/terminal/legacy/profiles:/{YOUR PROFILE UID} < Everblush.dconf
-```
-The theme should be applied instantly if the steps is correct
+Download the `install.sh` file and run as `./install.sh` to import the settings into GNOME Terminal.

@@ -1,4 +1,4 @@
-<h2 align="center">Everblush for <a href="https://iterm2.com">iTerm2</a></h2>
+<h2 align="center">Everblush for <a href="https://github.com/wez/wezterm">WezTerm</a></h2>
 
 <p align="center">
     <a href="https://github.com/Everblush/terminal-emulators/stars"><img src="https://img.shields.io/github/stars/Everblush/terminal-emulators?color=e57474&labelColor=1e2528&style=for-the-badge"></a>
@@ -9,10 +9,9 @@
 
 ## Preview
 
-![Everblush on iTerm2](https://user-images.githubusercontent.com/6701068/186031919-563bbe93-7e65-42c6-87bd-304da7c6aad2.png)
+![Everblush WezTerm]()
 
 ## Installation
 
-1. Download the `Everblush.itermcolors` file from this folder to a local directory on your computer.
-2. Open iTerm2 and go to `Preferences > Profiles > Colors > Color Presets > Import`, then browse to the location of the `Everblush.itermcolors` file and select it to import.
-3. Go to `Load Presets` and select Everblush to apply the colorscheme.
+1. Download the `Everblush.lua` file from this directory and place it in the `~/.config/wezterm/colors` folder in your system.
+2. Edit your `wezterm.lua` and set `color_scheme = 'Everblush'` to apply the colorscheme.
