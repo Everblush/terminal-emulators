@@ -7,17 +7,19 @@
     <a href="https://github.com/Everblush/terminal-emulators/network/members"><img src="https://img.shields.io/github/forks/Everblush/terminal-emulators?color=e5c76b&labelColor=1e2528&style=for-the-badge"></a>
 </p>
 
-## Installation
+## List of Terminal Emulators
 
-- [Alacritty](https://github.com/prateektade/everblush-terminal-emulators)
-- [Foot](https://github.com/prateektade/everblush-terminal-emulators)
-- [GNOME Terminal](https://github.com/prateektade/everblush-terminal-emulators)
-- [iTerm2](https://github.com/prateektade/everblush-terminal-emulators)
-- [Kitty](https://github.com/prateektade/everblush-terminal-emulators)
-- [Simple Terminal](https://github.com/prateektade/everblush-terminal-emulators)
-- [Tymemulator](https://github.com/prateektade/everblush-terminal-emulators)
-- [WezTerm](https://github.com/prateektade/everblush-terminal-emulators)
-- [XFCE4 Terminal](https://github.com/prateektade/everblush-terminal-emulators)
+Click on the link for your favorite terminal emulator below to get started with setting up Everblush!
+
+- [Alacritty](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/alacritty)
+- [Foot](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/foot)
+- [GNOME Terminal](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/gnome-terminal)
+- [iTerm2](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/iterm2)
+- [Kitty](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/kitty)
+- [Simple Terminal](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/simple-terminal)
+- [Tym](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/tym)
+- [WezTerm](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/wezterm)
+- [XFCE4 Terminal](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/xfce4-terminal)
 
 ## Credits 💝
 - [samuel](https://github.com/samuelnihbos)
