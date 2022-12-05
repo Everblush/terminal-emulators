@@ -22,6 +22,7 @@ Click on the link for your favorite terminal emulator below to get started with 
 - [Simple Terminal](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/simple-terminal)
 - [Tym](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/tym)
 - [WezTerm](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/wezterm)
+- [Windows Terminal](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/windows-terminal)
 - [XFCE4 Terminal](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/xfce4-terminal)
 
 ## Credits 💝
