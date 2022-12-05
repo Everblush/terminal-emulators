@@ -22,6 +22,7 @@ Click on the link for your favorite terminal emulator below to get started with 
 - [GNOME Terminal](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/gnome-terminal)
 - [iTerm2](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/iterm2)
 - [Kitty](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/kitty)
+- [Konsole](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/konsole)
 - [Linux TTY](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/linux-tty)
 - [LXTerminal](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/lxterminal)
 - [QTerminal](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/qterminal)
