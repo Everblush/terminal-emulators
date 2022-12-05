@@ -18,6 +18,7 @@
 Click on the link for your favorite terminal emulator below to get started with setting up Everblush!
 
 - [Alacritty](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/alacritty)
+- [Black Box](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/blackbox)
 - [Foot](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/foot)
 - [GNOME Terminal](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/gnome-terminal)
 - [iTerm2](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/iterm2)
@@ -27,6 +28,7 @@ Click on the link for your favorite terminal emulator below to get started with 
 - [LXTerminal](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/lxterminal)
 - [QTerminal](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/qterminal)
 - [Simple Terminal](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/simple-terminal)
+- [Tilix](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/tilix)
 - [Tym](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/tym)
 - [WezTerm](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/wezterm)
 - [Windows Terminal](https://github.com/prateektade/everblush-terminal-emulators/tree/rework-repository/src/windows-terminal)
