@@ -1,4 +1,10 @@
-<h2 align="center">Everblush for <a href="https://gitlab.xfce.org/apps/xfce4-terminal">XFCE4 Terminal</a></h2>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Everblush/.github/main/assets/logo.png" height="200px" width="200px" alt="logo"> 
+</div>
+
+<h1 align="center">Everblush for <a href="https://gitlab.xfce.org/apps/xfce4-terminal">XFCE4 Terminal</a></h1>
+
+<h4 align="center"><i>A dark, vibrant, and beautiful color scheme for XFCE4 Terminal.</i></h4>
 
 <p align="center">
     <a href="https://github.com/Everblush/terminal-emulators/stars"><img src="https://img.shields.io/github/stars/Everblush/terminal-emulators?color=e57474&labelColor=1e2528&style=for-the-badge"></a>
