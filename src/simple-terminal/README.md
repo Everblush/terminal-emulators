@@ -15,7 +15,7 @@
 
 ## Preview
 
-![Everblush Simple Terminal]()
+![Everblush Simple Terminal](https://raw.githubusercontent.com/prateektade/everblush-terminal-emulators/rework-repository/assets/Everblush-Simple-Terminal.webp)
 
 ## Installation
 

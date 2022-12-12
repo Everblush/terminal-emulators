@@ -15,7 +15,7 @@
 
 ## Preview
 
-![Everblush WezTerm]()
+![Everblush WezTerm](https://raw.githubusercontent.com/prateektade/everblush-terminal-emulators/rework-repository/assets/Everblush-WezTerm.webp)
 
 ## Installation
 

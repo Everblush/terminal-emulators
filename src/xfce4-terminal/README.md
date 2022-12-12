@@ -15,7 +15,7 @@
 
 ## Preview
 
-![Everblush XFCE4 Terminal]()
+![Everblush XFCE4 Terminal](https://raw.githubusercontent.com/prateektade/everblush-terminal-emulators/rework-repository/assets/Everblush-XFCE4-Terminal.webp)
 
 ## Installation
 

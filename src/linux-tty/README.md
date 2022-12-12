@@ -15,7 +15,7 @@
 
 ## Preview
 
-![Everblush TTY]()
+![Everblush TTY](https://raw.githubusercontent.com/prateektade/everblush-terminal-emulators/rework-repository/assets/Everblush-Linux-TTY.webp)
 
 ## Installation
 
