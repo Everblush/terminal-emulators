@@ -15,7 +15,7 @@
 
 ## Preview
 
-![Everblush Konsole]()
+![Everblush Konsole](https://raw.githubusercontent.com/prateektade/everblush-terminal-emulators/rework-repository/assets/Everblush-Konsole.webp)
 
 ## Installation
 
