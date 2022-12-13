@@ -15,7 +15,7 @@
 
 ## Preview
 
-![Everblush Blackbox]()
+![Everblush Tilix](https://raw.githubusercontent.com/prateektade/everblush-terminal-emulators/rework-repository/assets/Everblush-Tilix.webp)
 
 ## Installation
 
