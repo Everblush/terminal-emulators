@@ -15,7 +15,7 @@
 
 ## Preview
 
-![Everblush Tym](https://raw.githubusercontent.com/prateektade/everblush-terminal-emulators/rework-repository/assets/Everblush-Tym.webp)
+![Everblush Tym](https://raw.githubusercontent.com/Everblush/terminal-emulators/main/assets/Everblush-Tym.webp)
 
 ## Installation
 

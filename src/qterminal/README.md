@@ -15,7 +15,7 @@
 
 ## Preview
 
-![Everblush QTerminal](https://raw.githubusercontent.com/prateektade/everblush-terminal-emulators/rework-repository/assets/Everblush-QTerminal.webp)
+![Everblush QTerminal](https://raw.githubusercontent.com/Everblush/terminal-emulators/main/assets/Everblush-QTerminal.webp)
 
 ## Installation
 

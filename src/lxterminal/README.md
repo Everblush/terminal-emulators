@@ -15,7 +15,7 @@
 
 ## Preview
 
-![Everblush LXTerminal](https://raw.githubusercontent.com/prateektade/everblush-terminal-emulators/rework-repository/assets/Everblush-LXTerminal.webp)
+![Everblush LXTerminal](https://raw.githubusercontent.com/Everblush/terminal-emulators/main/assets/Everblush-LXTerminal.webp)
 
 ## Installation
 
