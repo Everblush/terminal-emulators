@@ -15,7 +15,7 @@
 
 ## Preview
 
-![Everblush Tilix](https://raw.githubusercontent.com/prateektade/everblush-terminal-emulators/rework-repository/assets/Everblush-Tilix.webp)
+![Everblush Tilix](https://raw.githubusercontent.com/Everblush/terminal-emulators/main/assets/Everblush-Tilix.webp)
 
 ## Installation
 

@@ -15,7 +15,7 @@
 
 ## Preview
 
-![Everblush Kitty](https://raw.githubusercontent.com/prateektade/everblush-terminal-emulators/rework-repository/assets/Everblush-Kitty.webp)
+![Everblush Kitty](https://raw.githubusercontent.com/Everblush/terminal-emulators/main/assets/Everblush-Kitty.webp)
 
 ## Installation
 

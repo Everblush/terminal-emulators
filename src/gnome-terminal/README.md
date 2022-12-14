@@ -15,7 +15,7 @@
 
 ## Preview
 
-![Everblush GNOME Terminal](https://raw.githubusercontent.com/prateektade/everblush-terminal-emulators/rework-repository/assets/Everblush-GNOME-Terminal.webp)
+![Everblush GNOME Terminal](https://raw.githubusercontent.com/Everblush/terminal-emulators/main/assets/Everblush-GNOME-Terminal.webp)
 
 ## Installation
 

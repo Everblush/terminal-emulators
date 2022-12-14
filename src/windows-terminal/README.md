@@ -15,7 +15,7 @@
 
 ## Preview
 
-![Everblush Windows Terminal](https://raw.githubusercontent.com/prateektade/everblush-terminal-emulators/rework-repository/assets/Everblush-Windows-Terminal.webp)
+![Everblush Windows Terminal](https://raw.githubusercontent.com/Everblush/terminal-emulators/main/assets/Everblush-Windows-Terminal.webp)
 
 ## Installation
 

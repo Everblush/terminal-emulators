@@ -15,7 +15,7 @@
 
 ## Preview
 
-![Everblush Foot](https://raw.githubusercontent.com/prateektade/everblush-terminal-emulators/rework-repository/assets/Everblush-Foot.webp)
+![Everblush Foot](https://raw.githubusercontent.com/Everblush/terminal-emulators/main/assets/Everblush-Foot.webp)
 
 ## Installation
 

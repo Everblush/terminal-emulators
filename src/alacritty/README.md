@@ -15,7 +15,7 @@
 
 ## Preview
 
-![Everblush Alacritty](https://raw.githubusercontent.com/prateektade/everblush-terminal-emulators/rework-repository/assets/Everblush-Alacritty.webp)
+![Everblush Alacritty](https://raw.githubusercontent.com/Everblush/terminal-emulators/main/assets/Everblush-Alacritty.webp)
 
 ## Installation
 

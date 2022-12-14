@@ -15,7 +15,7 @@
 
 ## Preview
 
-![Everblush Blackbox](https://raw.githubusercontent.com/prateektade/everblush-terminal-emulators/rework-repository/assets/Everblush-Blackbox.webp)
+![Everblush Blackbox](https://raw.githubusercontent.com/Everblush/terminal-emulators/main/assets/Everblush-Blackbox.webp)
 
 ## Installation
 
