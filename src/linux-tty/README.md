@@ -2,9 +2,9 @@
     <img src="https://raw.githubusercontent.com/Everblush/.github/main/assets/logo.png" height="200px" width="200px" alt="logo"> 
 </div>
 
-<h1 align="center">Everblush for <a href="https://wiki.gnome.org/Apps/Terminal">Gnome Terminal</a></h1>
+<h1 align="center">Everblush for TTY</h1>
 
-<h4 align="center"><i>A dark, vibrant, and beautiful color scheme for GNOME Terminal.</i></h4>
+<h4 align="center"><i>A dark, vibrant, and beautiful color scheme for TTY.</i></h4>
 
 <p align="center">
     <a href="https://github.com/Everblush/terminal-emulators/stars"><img src="https://img.shields.io/github/stars/Everblush/terminal-emulators?color=e57474&labelColor=1e2528&style=for-the-badge"></a>
@@ -15,18 +15,20 @@
 
 ## Preview
 
-![Everblush GNOME Terminal](https://raw.githubusercontent.com/prateektade/everblush-terminal-emulators/rework-repository/assets/Everblush-GNOME-Terminal.webp)
+![Everblush TTY](https://raw.githubusercontent.com/prateektade/everblush-terminal-emulators/rework-repository/assets/Everblush-Linux-TTY.webp)
 
 ## Installation
 
-**Manual installation**
+Append the contents of `Everblush.sh` to your login shell config as follows -
 
-Download the `Everblush.dconf` file and import the settings into GNOME Terminal with the following command -
+**bash**
 
+```sh
+cat Everblush.sh >> ~/.bashrc
 ```
-dconf load /org/gnome/terminal/legacy/profiles:/ < Everblush.dconf
+
+**zsh**
+
+```sh
+cat Everblush.sh >> ~/.zshrc
 ```
-
-**Automatic installation**
-
-Download the `install.sh` file and run as `./install.sh` to import the settings into GNOME Terminal.

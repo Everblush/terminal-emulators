@@ -2,9 +2,9 @@
     <img src="https://raw.githubusercontent.com/Everblush/.github/main/assets/logo.png" height="200px" width="200px" alt="logo"> 
 </div>
 
-<h1 align="center">Everblush for <a href="https://wiki.gnome.org/Apps/Terminal">Gnome Terminal</a></h1>
+<h1 align="center">Everblush for <a href="https://github.com/lxde/lxterminal">LXTerminal</a></h1>
 
-<h4 align="center"><i>A dark, vibrant, and beautiful color scheme for GNOME Terminal.</i></h4>
+<h4 align="center"><i>A dark, vibrant, and beautiful color scheme for terminal emulators.</i></h4>
 
 <p align="center">
     <a href="https://github.com/Everblush/terminal-emulators/stars"><img src="https://img.shields.io/github/stars/Everblush/terminal-emulators?color=e57474&labelColor=1e2528&style=for-the-badge"></a>
@@ -15,18 +15,11 @@
 
 ## Preview
 
-![Everblush GNOME Terminal](https://raw.githubusercontent.com/prateektade/everblush-terminal-emulators/rework-repository/assets/Everblush-GNOME-Terminal.webp)
+![Everblush LXTerminal](https://raw.githubusercontent.com/prateektade/everblush-terminal-emulators/rework-repository/assets/Everblush-LXTerminal.webp)
 
 ## Installation
 
-**Manual installation**
-
-Download the `Everblush.dconf` file and import the settings into GNOME Terminal with the following command -
-
-```
-dconf load /org/gnome/terminal/legacy/profiles:/ < Everblush.dconf
-```
-
-**Automatic installation**
-
-Download the `install.sh` file and run as `./install.sh` to import the settings into GNOME Terminal.
+1. Create a backup of your existing LXTerminal config file present at `~/.config/lxterminal/lxterminal.conf`.
+2. Browse to the `[general]` section in your active `lxterminal.conf` file and delete the lines corresponding to the color settings, starting from `bgcolor` to `color_preset`.
+3. Copy the contents of the `Everblush.conf` file and paste them in your active `lxterminal.conf` file.
+4. Restart LXTerminal to apply the changes.

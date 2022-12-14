@@ -2,9 +2,9 @@
     <img src="https://raw.githubusercontent.com/Everblush/.github/main/assets/logo.png" height="200px" width="200px" alt="logo"> 
 </div>
 
-<h1 align="center">Everblush for <a href="https://wiki.gnome.org/Apps/Terminal">Gnome Terminal</a></h1>
+<h1 align="center">Everblush for <a href="https://github.com/alacritty/alacritty">Alacritty</a></h1>
 
-<h4 align="center"><i>A dark, vibrant, and beautiful color scheme for GNOME Terminal.</i></h4>
+<h4 align="center"><i>A dark, vibrant, and beautiful color scheme for Alacritty.</i></h4>
 
 <p align="center">
     <a href="https://github.com/Everblush/terminal-emulators/stars"><img src="https://img.shields.io/github/stars/Everblush/terminal-emulators?color=e57474&labelColor=1e2528&style=for-the-badge"></a>
@@ -15,18 +15,13 @@
 
 ## Preview
 
-![Everblush GNOME Terminal](https://raw.githubusercontent.com/prateektade/everblush-terminal-emulators/rework-repository/assets/Everblush-GNOME-Terminal.webp)
+![Everblush Alacritty](https://raw.githubusercontent.com/prateektade/everblush-terminal-emulators/rework-repository/assets/Everblush-Alacritty.webp)
 
 ## Installation
 
-**Manual installation**
-
-Download the `Everblush.dconf` file and import the settings into GNOME Terminal with the following command -
-
+1. Download the `Everblush.yml` file to your Alacritty config directory, i.e. `~/.config/alacritty`.
+2. Import the colorscheme in your `alacritty.yml` file as
+```yaml
+import:
+    ~/.config/alacritty/Everblush.yml
 ```
-dconf load /org/gnome/terminal/legacy/profiles:/ < Everblush.dconf
-```
-
-**Automatic installation**
-
-Download the `install.sh` file and run as `./install.sh` to import the settings into GNOME Terminal.

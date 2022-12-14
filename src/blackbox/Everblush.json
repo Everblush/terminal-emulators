@@ -1,0 +1,31 @@
+{
+  "name": "Everblush",
+  "comment": "A dark, vibrant, and beautiful color scheme for Black Box.",
+  "background-color": "#141B1E",
+  "foreground-color": "#DADADA",
+  "cursor-background-color": "#DADADA",
+  "cursor-foreground-color": "#141B1E",
+  "highlight-background-color": "#DADADA",
+  "highlight-foreground-color": "#141B1E",
+  "palette": [
+      "#232A2D",
+      "#E57474",
+      "#8CCF7E",
+      "#E5C76B",
+      "#67B0E8",
+      "#C47FD5",
+      "#6CBFBF",
+      "#B3B9B8",
+      "#2D3437",
+      "#EF7E7E",
+      "#96D988",
+      "#F4D67A",
+      "#71BAF2",
+      "#CE89DF",
+      "#67CBE7",
+      "#BDC3C2"
+  ],
+  "use-cursor-color": true,
+  "use-highlight-color": true,
+  "use-theme-colors": false
+}
