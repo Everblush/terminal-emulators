@@ -19,9 +19,4 @@
 
 ## Installation
 
-1. Download the `Everblush.yml` file to your Alacritty config directory, i.e. `~/.config/alacritty`.
-2. Import the colorscheme in your `alacritty.yml` file as
-```yaml
-import:
-    ~/.config/alacritty/Everblush.yml
-```
+1. Download the `Everblush.yml` or copy the contents of it to `alacritty.yml` in colors section. 
